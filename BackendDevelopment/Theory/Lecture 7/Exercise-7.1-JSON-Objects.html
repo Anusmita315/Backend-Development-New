@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Objects Demo</title>
+</head>
+<body>
+    <h1>JSON Objects Demo</h1>
+
+    <script>
+        // 1. Simple object
+        const simpleObject = {
+            name: "Alice",
+            age: 22
+        };
+
+        // 2. Nested object
+        const nestedObject = {
+            user: {
+                name: "Bob",
+                address: {
+                    city: "NYC"
+                }
+            }
+        };
+
+        // 3. Array of objects
+        const objectArray = [
+            { id: 1, text: "Task 1" },
+            { id: 2, text: "Task 2" }
+        ];
+
+        // Store all three values
+        localStorage.setItem("simpleObject", JSON.stringify(simpleObject));
+        localStorage.setItem("nestedObject", JSON.stringify(nestedObject));
+        localStorage.setItem("objectArray", JSON.stringify(objectArray));
+
+        // Verify by parsing them back
+        console.log("Simple object:", JSON.parse(localStorage.getItem("simpleObject")));
+        console.log("Nested object:", JSON.parse(localStorage.getItem("nestedObject")));
+        console.log("Array of objects:", JSON.parse(localStorage.getItem("objectArray")));
+    </script>
+</body>
+</html>

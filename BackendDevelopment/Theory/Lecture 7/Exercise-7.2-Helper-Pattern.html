@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Helper Pattern Demo</title>
+</head>
+<body>
+    <h1>Helper Pattern Demo</h1>
+
+    <script>
+        function save(key, data) {
+            localStorage.setItem(key, JSON.stringify(data));
+        }
+
+        function load(key) {
+            const raw = localStorage.getItem(key);
+            return raw ? JSON.parse(raw) : null;
+        }
+
+        // Save data using the helper
+        save("settings", {
+            theme: "dark",
+            fontSize: 14
+        });
+
+        // Load data using the helper
+        const settings = load("settings");
+
+        console.log("Loaded settings:", settings);
+        console.log("Theme:", settings.theme);
+        console.log("Font size:", settings.fontSize);
+    </script>
+</body>
+</html>

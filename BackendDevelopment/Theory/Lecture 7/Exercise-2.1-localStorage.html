@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>localStorage Basics</title>
+</head>
+<body>
+    <h1>localStorage Demo</h1>
+
+    <script>
+        localStorage.setItem("favColor", "blue");
+
+        const color = localStorage.getItem("favColor");
+        console.log("Favorite color:", color);
+
+        // To remove the item:
+        // localStorage.removeItem("favColor");
+
+        // To clear all localStorage:
+        // localStorage.clear();
+    </script>
+</body>
+</html>

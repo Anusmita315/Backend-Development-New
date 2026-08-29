@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON.stringify Demo</title>
+</head>
+<body>
+    <h1>JSON.stringify Demo</h1>
+
+    <script>
+        const user = {
+            name: "Alice",
+            age: 21,
+            branch: "CSE"
+        };
+
+        const userString = JSON.stringify(user);
+
+        localStorage.setItem("user", userString);
+
+        console.log("Stored JSON:", userString);
+    </script>
+</body>
+</html>

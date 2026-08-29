@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>sessionStorage Demo</title>
+</head>
+<body>
+    <h1>sessionStorage Demo</h1>
+
+    <script>
+        sessionStorage.setItem("sessionUser", "Alice");
+
+        const user = sessionStorage.getItem("sessionUser");
+        console.log("Session user:", user);
+    </script>
+</body>
+</html>

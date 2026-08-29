@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DevTools Storage Demo</title>
+</head>
+<body>
+    <h1>DevTools Storage Demo</h1>
+
+    <script>
+        localStorage.setItem("name", "Alice");
+        localStorage.setItem("course", "B.Tech CSE");
+        localStorage.setItem("semester", "6");
+
+        console.log("Name:", localStorage.getItem("name"));
+        console.log("Course:", localStorage.getItem("course"));
+        console.log("Semester:", localStorage.getItem("semester"));
+
+        console.table(localStorage);
+    </script>
+</body>
+</html>

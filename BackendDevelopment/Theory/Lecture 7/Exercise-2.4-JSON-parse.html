@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON.parse Demo</title>
+</head>
+<body>
+    <h1>JSON.parse Demo</h1>
+
+    <script>
+        const userString = localStorage.getItem("user");
+
+        const user = JSON.parse(userString);
+
+        console.log("User object:", user);
+        console.log("Name:", user.name);
+        console.log("Age:", user.age);
+        console.log("Branch:", user.branch);
+    </script>
+</body>
+</html>
