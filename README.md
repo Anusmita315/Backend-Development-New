@@ -11,21 +11,19 @@ This repository contains my Backend Development projects completed as part of th
 
 ## Project Structure
 
-BackendDevelopment/
-│
-├── Lab/
-│   ├── Lab-Experiment-1/
-│   ├── Lab-Experiment-12A/
-│   └── Lab-Experiment-12B/
-│
-├── Theory/
-│   ├── Lecture 3/
-│   ├── Lecture 4/
-│   ├── Lecture 5/
-│   ├── Lecture 6/
-│   └── Lecture 7/
-│
-└── README.md
+### Lab
+
+- [Lab Experiment 1](./BackendDevelopment/Lab/Lab-Experiment-1/)
+- [Lab Experiment 12A](./BackendDevelopment/Lab/Lab-Experiment-12A/)
+- [Lab Experiment 12B](./BackendDevelopment/Lab/Lab-Experiment-12B/)
+
+### Theory
+
+- [Lecture 3](./BackendDevelopment/Theory/Lecture%203/)
+- [Lecture 4](./BackendDevelopment/Theory/Lecture%204/)
+- [Lecture 5](./BackendDevelopment/Theory/Lecture%205/)
+- [Lecture 6](./BackendDevelopment/Theory/Lecture%206/)
+- [Lecture 7](./BackendDevelopment/Theory/Lecture%207/)
 
 
 ## Important Projects
