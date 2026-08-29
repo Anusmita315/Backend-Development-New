@@ -193,35 +193,7 @@ I also learned how EJS can be used to generate dynamic HTML pages from server-si
 
 [![Task 5 - Registration Result](Task-5-Form-Handling/task5-result.png)](Task-5-Form-Handling/task5-result.png)
 
-Important: This assumes all screenshots are saved inside their respective Task folders, which is what we've been doing.
 
-So your structure will be:
-
-Lab-Experiment-12A/
-├── report.md
-├── Task-1-Basic-Server/
-│   ├── server.js
-│   ├── task1-name.png
-│   ├── task1-roll.png
-│   └── task1-branch.png
-├── Task-2-Calculator-API/
-│   ├── server.js
-│   ├── task2-addition.png
-│   └── task2-multiplication.png
-├── Task-3-Student-Management/
-│   ├── server.js
-│   ├── task3-all-students.png
-│   ├── task3-single-student.png
-│   └── task3-add-student.png
-├── Task-4-EJS-Timetable/
-│   ├── server.js
-│   ├── task4-timetable.png
-│   └── views/
-└── Task-5-Form-Handling/
-    ├── server.js
-    ├── task5-form.png
-    ├── task5-result.png
-    └── views/
 
 ## 9. Conclusion
 
