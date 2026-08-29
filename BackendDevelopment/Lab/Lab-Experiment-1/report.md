@@ -120,11 +120,15 @@ From this experiment, I learned how to:
 
 ### Output Screenshot
 
-Add a screenshot of the completed webpage here.
+## 7. Screenshots
 
-![HTML5 Elements Showcase](screenshot.png)
+### Screenshot 1
 
-> Replace `screenshot.png` with the actual screenshot file name after adding the screenshot to this experiment folder.
+[![HTML5 Elements Showcase - Screenshot 1](screenshot1.png)](screenshot1.png)
+
+### Screenshot 2
+
+[![HTML5 Elements Showcase - Screenshot 2](screenshot2.png)](screenshot2.png)
 
 ## 8. Conclusion
 
