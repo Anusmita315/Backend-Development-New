@@ -109,43 +109,44 @@ I also learned how sessions can be used to maintain user-specific information be
 
 #### Set Cookie
 
-[![Cookie Set](Screenshots/cookie-set.png)](Screenshots/cookie-set.png)
+[![Cookie Set](screenshots/cookie-set.png)](screenshots/cookie-set.png)
 
 #### Get Cookie
 
-[![Cookie Get](Screenshots/cookie-get.png)](Screenshots/cookie-get.png)
+[![Cookie Get](screenshots/cookie-get.png)](screenshots/cookie-get.png)
 
 #### Delete Cookie
 
-[![Cookie Delete](Screenshots/cookie-delete.png)](Screenshots/cookie-delete.png)
+[![Cookie Delete](screenshots/cookie-delete.png)](screenshots/cookie-delete.png)
 
 ### Task 2 – Session Handling
 
 #### First Visit
 
-[![Session First Visit](Screenshots/session-first.png)](Screenshots/session-first.png)
+[![Session First Visit](screenshots/session-first.png)](screenshots/session-first.png)
 
 #### Session Visit Count
 
-[![Session Visit Count](Screenshots/session-visit.png)](Screenshots/session-visit.png)
+[![Session Visit Count](screenshots/session-visit.png)](screenshots/session-visit.png)
 
 #### Destroy Session
 
-[![Session Destroy](Screenshots/session-destroy.png)](Screenshots/session-destroy.png)
+[![Session Destroy](screenshots/session-destroy.png)](screenshots/session-destroy.png)
 
 ### Task 3 – Login, Session and Cookie Management
 
 #### Login Page
 
-[![Login Page](Screenshots/login.png)](Screenshots/login.png)
+[![Login Page](screenshots/login.png)](screenshots/login.png)
 
 #### Logged In
 
-[![Logged In](Screenshots/logged-in.png)](Screenshots/logged-in.png)
+[![Logged In](screenshots/logged-in.png)](screenshots/logged-in.png)
 
 #### Logout
 
-[![Logout](Screenshots/logout.png)](Screenshots/logout.png)
+[![Logout](screenshots/logout.png)](screenshots/logout.png)
+
 ## 9. Conclusion
 
 This experiment provided practical experience with cookies and sessions using Express.js.
