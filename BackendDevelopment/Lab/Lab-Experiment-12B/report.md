@@ -146,7 +146,6 @@ I also learned how sessions can be used to maintain user-specific information be
 #### Logout
 
 [![Logout](Screenshots/logout.png)](Screenshots/logout.png)
-
 ## 9. Conclusion
 
 This experiment provided practical experience with cookies and sessions using Express.js.
