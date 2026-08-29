@@ -13,9 +13,11 @@ This repository contains my Backend Development projects completed as part of th
 
 ### Lab
 
-- [Lab Experiment 1](./BackendDevelopment/Lab/Lab-Experiment-1/)
-- [Lab Experiment 12A](./BackendDevelopment/Lab/Lab-Experiment-12A/)
-- [Lab Experiment 12B](./BackendDevelopment/Lab/Lab-Experiment-12B/)
+### Lab
+
+- [Lab Experiment 1](https://anusmita315.github.io/Backend-Development-New/BackendDevelopment/Lab/Lab-Experiment-1/)
+- [Lab Experiment 12A](https://anusmita315.github.io/Backend-Development-New/BackendDevelopment/Lab/Lab-Experiment-12A/)
+- [Lab Experiment 12B](https://anusmita315.github.io/Backend-Development-New/BackendDevelopment/Lab/Lab-Experiment-12B/)
 
 ### Theory
 
