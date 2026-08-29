@@ -19,7 +19,7 @@ This repository contains my Backend Development projects completed as part of th
 
 ### Theory
 
-- [Lecture 3](./BackendDevelopment/Theory/Lecture%203/)
+- [Lecture 3](./BackendDevelopment/Theory/Lecture3/)
 - [Lecture 4](./BackendDevelopment/Theory/Lecture%204/)
 - [Lecture 5](./BackendDevelopment/Theory/Lecture%205/)
 - [Lecture 6](./BackendDevelopment/Theory/Lecture%206/)
