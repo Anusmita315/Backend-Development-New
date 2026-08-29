@@ -15,4 +15,9 @@ app.get("/roll", (req, res) => {
 app.get("/branch", (req, res) => {
     res.json({
         branch: "CSE"
-    })
+    });
+});
+
+app.listen(3000, () => {
+    console.log("Server running at http://localhost:3000");
+});
