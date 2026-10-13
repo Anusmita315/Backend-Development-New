@@ -7,86 +7,101 @@
 
 ## About the Repository
 
-This repository contains my Backend Development coursework, including theory lectures, practical lab experiments, assignments, screenshots, and projects completed as part of the course.
+This repository contains my Backend Development coursework, including theory lectures, laboratory experiments, assignments, source code, screenshots, and practical projects.
 
-The repository is organized into **Theory** and **Lab** sections. Each section contains the corresponding learning materials, code examples, practical implementations, and reports.
+The repository is organized into Theory and Lab sections to make the coursework easy to navigate. The materials cover JavaScript, browser storage, Node.js, Express.js, API development, database operations, data modeling, and validation.
 
-## Project Structure
+## Repository Contents
 
-- [Theory](./Theory/)
-- [Lab](./Lab/)
+- [Theory and Assignments](./BackendDevelopment/Theory/)
+- [Laboratory Experiments](./BackendDevelopment/Lab/)
 
 ## Theory
 
 ### Lectures
 
-- [Lecture 3](./Theory/Lecture3/)
-- [Lecture 4](./Theory/Lecture%204/)
-- [Lecture 5](./Theory/Lecture%205/)
-- [Lecture 6](./Theory/Lecture%206/)
-- [Lecture 7](./Theory/Lecture%207/)
-- - [Lecture 8](./BackendDevelopment/Theory/Lecture%208/)
-- [Lecture 13](./Theory/Lecture%2013/)
-- [Lecture 14](./Theory/Lecture%2014/)
-- [Lecture 15 — Data Modeling](./Theory/Lecture%2015/)
+- [Lecture 3](./BackendDevelopment/Theory/Lecture3/)
+- [Lecture 4 — Practical Exercises](./BackendDevelopment/Theory/Lecture%204/)
+- [Lecture 5 — FastAPI CRUD](./BackendDevelopment/Theory/Lecture%205/)
+- [Lecture 6 — Sessions, Cookies and Query Strings](./BackendDevelopment/Theory/Lecture%206/)
+- [Lecture 7 — Browser Storage and JSON](./BackendDevelopment/Theory/Lecture%207/)
+- [Lecture 8](./BackendDevelopment/Theory/Lecture%208/)
+- [Lecture 13 — Database Practical](./BackendDevelopment/Theory/Lecture%2013/)
+- [Lecture 14 — Database Schema Design and Normalization](./BackendDevelopment/Theory/Lecture%2014/)
+- [Lecture 15 — Data Modeling](./BackendDevelopment/Theory/Lecture%2015/)
 
 ### Assignments
 
-- [Assignment 1 — Notes App](./Theory/Assignment%201/)
-- [Assignment 2 — PostgreSQL JSONB](./Theory/Assignment%202/)
+- [Assignment 1 — Notes Application](./BackendDevelopment/Theory/Assignment%201/)
+- [Assignment 2 — PostgreSQL JSONB](./BackendDevelopment/Theory/Assignment%202/)
 
-## Lab
+## Laboratory Experiments
 
-### Lab Experiments
+- [Lab Experiment 01](./BackendDevelopment/Lab/Lab-Experiment-1/)
+- [Lab Experiment 05 — JavaScript Basics](./BackendDevelopment/Lab/Lab-Experiment-05/)
+- [Lab Experiment 07 & 08 — ES6, DOM Manipulation and Event Handling](./BackendDevelopment/Lab/Lab-Experiment-07-08/)
+- [Lab Experiment 12A](./BackendDevelopment/Lab/Lab-Experiment-12A/)
+- [Lab Experiment 12B — Cookies and Sessions](./BackendDevelopment/Lab/Lab-Experiment-12B/)
+- [Lab Experiment 13A](./BackendDevelopment/Lab/Lab-Experiment-13A/)
 
-- [Lab Experiment 1](./Lab/Lab-Experiment-1/)
-- [Lab Experiment 05 — JavaScript Basics](./Lab/Lab-Experiment-05/)
-- [Lab Experiment 07 & 08 — ES6, DOM Manipulation, and Event Handling](./Lab/Lab-Experiment-07-08/)
-- [Lab Experiment 12A](./Lab/Lab-Experiment-12A/)
-- [Lab Experiment 12B](./Lab/Lab-Experiment-12B/)
-- [Lab Experiment 13A](./Lab/Lab-Experiment-13A/)
+## Lab Examination
 
-### Lab Examination
+- [Lab Examination — Notes Application](./BackendDevelopment/Lab/Lab-Examination/)
 
-- [Lab Examination — Notes Application](./Lab/Lab-Examination/)
+## Important Practical Projects
 
-## Topics and Technologies
+### JavaScript and Browser Development
 
-### Web Development
-- HTML and CSS
-- JavaScript fundamentals
-- ES6 features, including `let`, `const`, arrow functions, classes, destructuring, and spread syntax
-- DOM manipulation and event handling
-- Browser storage: `localStorage` and `sessionStorage`
-- JSON objects, parsing, and stringification
+- [Local Storage Exercise](./BackendDevelopment/Theory/Lecture%207/Exercise-2.1-localStorage.html)
+- [Session Storage Exercise](./BackendDevelopment/Theory/Lecture%207/Exercise-2.2-sessionStorage.html)
+- [JSON.stringify Exercise](./BackendDevelopment/Theory/Lecture%207/Exercise-2.3-JSON-stringify.html)
+- [JSON.parse Exercise](./BackendDevelopment/Theory/Lecture%207/Exercise-2.4-JSON-parse.html)
+- [Session Storage Disappearing Act](./BackendDevelopment/Theory/Lecture%207/Exercise-3.1-SessionStorage-Disappearing.html)
+- [JSON Objects](./BackendDevelopment/Theory/Lecture%207/Exercise-7.1-JSON-Objects.html)
+- [Helper Pattern](./BackendDevelopment/Theory/Lecture%207/Exercise-7.2-Helper-Pattern.html)
+- [DevTools Storage](./BackendDevelopment/Theory/Lecture%207/Exercise-8.1-DevTools.html)
+- [Final Notes App Task](./BackendDevelopment/Theory/Lecture%207/Final-Task-Notes-App.html)
+- [Interactive To-Do List — Experiment 07 & 08](./BackendDevelopment/Lab/Lab-Experiment-07-08/)
 
-### Backend Development
-- Node.js
-- Express.js
-- Routes and HTTP request handling
-- Cookies and sessions
-- Query strings
-- FastAPI and Pydantic
-- SQLAlchemy and ORM concepts
-- Mongoose schemas and validation
+### Database and Backend Development
 
-### Databases and Data Modeling
-- SQL and PostgreSQL
-- MongoDB
-- PostgreSQL JSONB
-- CRUD operations
-- Entity relationships
-- Database schema design and normalization
+- [Student Management SQL](./BackendDevelopment/Theory/Lecture%2013/student_management.sql)
+- [SQL vs MongoDB](./BackendDevelopment/Theory/Lecture%2013/sql-vs-mongodb.md)
+- [PostgreSQL Quick Reference](./BackendDevelopment/Theory/Lecture%2013/postgresql-quick-reference.md)
+- [Library Schema Design](./BackendDevelopment/Theory/Lecture%2014/library_schema_design.md)
+- [Library Schema SQL](./BackendDevelopment/Theory/Lecture%2014/library_schema.sql)
+- [Order Normalization](./BackendDevelopment/Theory/Lecture%2014/order_normalization.md)
+- [SQLAlchemy Demo](./BackendDevelopment/Theory/Lecture%2015/sqlalchemy_demo.py)
+- [Mongoose Demo](./BackendDevelopment/Theory/Lecture%2015/mongoose_demo.js)
+- [FastAPI Model](./BackendDevelopment/Theory/Lecture%2015/fastapi_model.py)
+- [Lecture 15 Lab Tasks](./BackendDevelopment/Theory/Lecture%2015/Lab%20Task/)
 
-## Practical Projects
+## Technologies Used
 
-- **Notes Application:** HTML-based notes application and a backend lab examination project.
-- **Student Management:** SQLAlchemy models, CRUD operations, and database relationships.
-- **Blog Data Models:** Mongoose Post and Comment schemas with validation.
-- **Interactive To-Do List:** JavaScript application using DOM manipulation and event listeners.
-- **Database Exercises:** SQL queries, PostgreSQL JSONB, MongoDB examples, and schema design.
+- **Frontend:** HTML, CSS, JavaScript
+- **JavaScript:** ES6, DOM manipulation, event handling, JSON
+- **Browser Storage:** localStorage and sessionStorage
+- **Backend:** Node.js, Express.js, FastAPI
+- **API Testing:** Postman, browser Fetch API, Swagger UI
+- **Databases:** SQL, PostgreSQL, MongoDB, SQLite
+- **ORM and ODM:** SQLAlchemy and Mongoose
+- **Data Validation:** Pydantic and Mongoose validation
+- **Tools:** Visual Studio Code, Git, GitHub
+
+## Learning Outcomes
+
+Through these exercises and projects, I have practised:
+
+- Writing and testing JavaScript programs.
+- Building interactive web pages using DOM manipulation and event listeners.
+- Working with browser storage, cookies, and sessions.
+- Creating backend routes and handling HTTP requests.
+- Testing API endpoints and validating input data.
+- Performing database CRUD operations.
+- Designing database schemas and relationships.
+- Using SQLAlchemy and Mongoose to work with data models.
+- Organizing source code, practical reports, and coursework in GitHub.
 
 ## Course Work
 
-This repository serves as a record of my learning and practical work throughout the Backend Development course. It includes lecture exercises, lab implementations, source code, reports, screenshots, and assignments.
-
+This repository serves as a record of my practical learning and progress in Backend Development. It contains theory exercises, lab experiments, assignments, database examples, screenshots, and application projects.
