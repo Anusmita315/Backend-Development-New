@@ -25,7 +25,7 @@ The repository is organized into **Theory** and **Lab** sections. Each section c
 - [Lecture 5](./Theory/Lecture%205/)
 - [Lecture 6](./Theory/Lecture%206/)
 - [Lecture 7](./Theory/Lecture%207/)
-- [Lecture 8](./Theory/Lecture%208/)
+- - [Lecture 8](./BackendDevelopment/Theory/Lecture%208/)
 - [Lecture 13](./Theory/Lecture%2013/)
 - [Lecture 14](./Theory/Lecture%2014/)
 - [Lecture 15 — Data Modeling](./Theory/Lecture%2015/)
