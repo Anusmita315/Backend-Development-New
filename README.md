@@ -3,56 +3,90 @@
 **Name:** Anusmita Jha  
 **SAP ID:** 590015944  
 **Course:** B.Tech CSE  
-**Subject:** Backend Development  
+**Subject:** Backend Development
 
 ## About the Repository
 
-This repository contains my Backend Development projects completed as part of the course. It includes both Class/Theory work and Lab experiments, along with important exercises, screenshots, and practical projects.
+This repository contains my Backend Development coursework, including theory lectures, practical lab experiments, assignments, screenshots, and projects completed as part of the course.
+
+The repository is organized into **Theory** and **Lab** sections. Each section contains the corresponding learning materials, code examples, practical implementations, and reports.
 
 ## Project Structure
 
-### Lab
+- [Theory](./Theory/)
+- [Lab](./Lab/)
 
-### Lab
+## Theory
 
-- [Lab Experiment 1](https://anusmita315.github.io/Backend-Development-New/BackendDevelopment/Lab/Lab-Experiment-1/)
-- [Lab Experiment 12A](https://anusmita315.github.io/Backend-Development-New/BackendDevelopment/Lab/Lab-Experiment-12A/)
-- [Lab Experiment 12B](https://anusmita315.github.io/Backend-Development-New/BackendDevelopment/Lab/Lab-Experiment-12B/)
+### Lectures
 
-### Theory
+- [Lecture 3](./Theory/Lecture3/)
+- [Lecture 4](./Theory/Lecture%204/)
+- [Lecture 5](./Theory/Lecture%205/)
+- [Lecture 6](./Theory/Lecture%206/)
+- [Lecture 7](./Theory/Lecture%207/)
+- [Lecture 8](./Theory/Lecture%208/)
+- [Lecture 13](./Theory/Lecture%2013/)
+- [Lecture 14](./Theory/Lecture%2014/)
+- [Lecture 15 — Data Modeling](./Theory/Lecture%2015/)
 
-- [Lecture 3](./BackendDevelopment/Theory/Lecture3/)
-- [Lecture 4](./BackendDevelopment/Theory/Lecture%204/)
-- [Lecture 5](./BackendDevelopment/Theory/Lecture%205/)
-- [Lecture 6](./BackendDevelopment/Theory/Lecture%206/)
-- [Lecture 7](./BackendDevelopment/Theory/Lecture%207/)
+### Assignments
 
+- [Assignment 1 — Notes App](./Theory/Assignment%201/)
+- [Assignment 2 — PostgreSQL JSONB](./Theory/Assignment%202/)
 
-## Important Projects
+## Lab
 
-### Lecture 7
+### Lab Experiments
 
-- [Exercise 2.1 - localStorage](./Theory/Lecture%207/Exercise-2.1-localStorage.html)
-- [Exercise 2.2 - sessionStorage](./Theory/Lecture%207/Exercise-2.2-sessionStorage.html)
-- [Exercise 2.3 - JSON.stringify](./Theory/Lecture%207/Exercise-2.3-JSON-stringify.html)
-- [Exercise 2.4 - JSON.parse](./Theory/Lecture%207/Exercise-2.4-JSON-parse.html)
-- [Exercise 3.1 - SessionStorage Disappearing Act](./Theory/Lecture%207/Exercise-3.1-SessionStorage-Disappearing.html)
-- [Exercise 7.1 - JSON Objects](./Theory/Lecture%207/Exercise-7.1-JSON-Objects.html)
-- [Exercise 7.2 - Helper Pattern](./Theory/Lecture%207/Exercise-7.2-Helper-Pattern.html)
-- [Exercise 8.1 - DevTools Storage](./Theory/Lecture%207/Exercise-8.1-DevTools.html)
-- [Final Task - Notes / Todo App](./Theory/Lecture%207/Final-Task-Notes-App.html)
+- [Lab Experiment 1](./Lab/Lab-Experiment-1/)
+- [Lab Experiment 05 — JavaScript Basics](./Lab/Lab-Experiment-05/)
+- [Lab Experiment 07 & 08 — ES6, DOM Manipulation, and Event Handling](./Lab/Lab-Experiment-07-08/)
+- [Lab Experiment 12A](./Lab/Lab-Experiment-12A/)
+- [Lab Experiment 12B](./Lab/Lab-Experiment-12B/)
+- [Lab Experiment 13A](./Lab/Lab-Experiment-13A/)
 
-## Technologies Used
+### Lab Examination
 
-- HTML
-- CSS
-- JavaScript
+- [Lab Examination — Notes Application](./Lab/Lab-Examination/)
+
+## Topics and Technologies
+
+### Web Development
+- HTML and CSS
+- JavaScript fundamentals
+- ES6 features, including `let`, `const`, arrow functions, classes, destructuring, and spread syntax
+- DOM manipulation and event handling
+- Browser storage: `localStorage` and `sessionStorage`
+- JSON objects, parsing, and stringification
+
+### Backend Development
 - Node.js
 - Express.js
-- JSON
-- localStorage
-- sessionStorage
+- Routes and HTTP request handling
+- Cookies and sessions
+- Query strings
+- FastAPI and Pydantic
+- SQLAlchemy and ORM concepts
+- Mongoose schemas and validation
+
+### Databases and Data Modeling
+- SQL and PostgreSQL
+- MongoDB
+- PostgreSQL JSONB
+- CRUD operations
+- Entity relationships
+- Database schema design and normalization
+
+## Practical Projects
+
+- **Notes Application:** HTML-based notes application and a backend lab examination project.
+- **Student Management:** SQLAlchemy models, CRUD operations, and database relationships.
+- **Blog Data Models:** Mongoose Post and Comment schemas with validation.
+- **Interactive To-Do List:** JavaScript application using DOM manipulation and event listeners.
+- **Database Exercises:** SQL queries, PostgreSQL JSONB, MongoDB examples, and schema design.
 
 ## Course Work
 
-This repository contains class exercises, laboratory experiments, screenshots, and practical projects completed during the Backend Development course.
+This repository serves as a record of my learning and practical work throughout the Backend Development course. It includes lecture exercises, lab implementations, source code, reports, screenshots, and assignments.
+
